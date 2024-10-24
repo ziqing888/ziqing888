@@ -18,7 +18,7 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-    <img src="https://komarev.com/ghpvc/?username=ziqing888&color=brightgreen" alt="GitHub 浏览次数">
+    <img src="https://komarev.com/ghpvc/?username=ziqing888&color=brightgreen" alt="GitHub 浏览次数" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
@@ -29,3 +29,4 @@
         <img src="https://img.shields.io/github/stars/ziqing888?style=social" alt="GitHub Star 数量">
     </a>
 </div>
+

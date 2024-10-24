@@ -23,7 +23,7 @@
 
 <div align="center" style="margin-top: 20px;">
     <a href="https://github.com/ziqing888">
-        <img src="https://img.shields.io/github/followers/ziqing888?label=关注&style=social" alt="在 GitHub 上关注子清">
+        <img src="https://img.shields.io/github/followers/ziqing888?label=GitHub关注&style=social" alt="在 GitHub 上关注子清">
     </a>
     <a href="https://github.com/ziqing888?tab=repositories" style="margin-left: 10px;">
         <img src="https://img.shields.io/github/stars/ziqing888?style=social" alt="GitHub Star 数量">

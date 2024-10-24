@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/twitter/follow/qklxsqf?style=social" alt="关注 @qklxsqf 的 X 账号">
     </a>
     <a href="https://t.me/ksqxszq">
-        <img src="https://img.shields.io/badge/Telegram-加入我们-blue?style=for-the-badge&logo=telegram" alt="加入子清的 Telegram 频道">
+        <img src="https://img.shields.io/badge/Telegram-加入电报频道-blue?style=for-the-badge&logo=telegram" alt="加入子清的 Telegram 频道">
     </a>
 </div>
 

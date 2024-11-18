@@ -17,7 +17,7 @@
     <p>你好！我是子清，一名热衷于技术的开发者。</p>
     <p>💻 主攻方向：Python、区块链开发、Web全栈。</p>
     <p>🌱 目前学习：Web3 和智能合约开发。</p>
-    <p>📫 联系方式：<a href="mailto:your-email@example.com">your-email@example.com</a></p>
+    <p>📫 联系方式：<a href="448730111@qq.com">your-email@example.com</a></p>
 </div>
 
 ---

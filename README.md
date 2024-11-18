@@ -47,12 +47,13 @@
 
 ## 🎁 捐赠支持
 <div align="center">
-   <!-- Ethereum 捐赠链接 -->
+    <!-- EVM 捐赠链接 -->
     <a href="https://debank.com/profile/0x30c03e3b73200b344b708350ab0cbd70fda5f849">
-        <img src="https://img.shields.io/badge/-Ethereum-090909?style=for-the-badge&logo=ethereum" alt="EVM" />
+        <img src="https://img.shields.io/badge/-EVM-090909?style=for-the-badge&logo=ethereum" alt="EVM Compatible Chain" />
     </a>
     <!-- Solana 捐赠链接 -->
     <a href="https://solscan.io/account/8ZkXDh2ALfFDrdYSdWCakk96w8eKFBqAxkNRYRS3Re1h">
         <img src="https://img.shields.io/badge/-Solana-090909?style=for-the-badge&logo=solana" alt="Solana" />
     </a>
 </div>
+

@@ -24,11 +24,11 @@
 ## 📊 我的统计
 <div align="center">
     <!-- 编程语言统计 -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziqing888&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 <div align="center">
     <!-- 总体数据统计 -->
-    <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ziqing888&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ---
@@ -56,4 +56,3 @@
         <img src="https://img.shields.io/badge/-Solana-090909?style=for-the-badge&logo=solana" alt="Solana" />
     </a>
 </div>
-
